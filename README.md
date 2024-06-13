@@ -1,4 +1,5 @@
 + Hướng dẫn cài đặt:
+1. Tải và giải nén file "HUIT-LTMa NguonMo-chiều thứ Hai-Nhóm số 4.rar"
 1. upload file database (news.sql) lên phpMyAdmin
 2. Mở file bằng VS Code, chạy file index.php
 + Link website:
