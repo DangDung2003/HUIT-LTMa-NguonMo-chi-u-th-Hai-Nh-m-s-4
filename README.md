@@ -4,11 +4,11 @@
 + Link website:
 http://news24hdoan.infinityfreeapp.com/
 + Thông tin đăng nhập để test:
-  Tài khoản admin:
-  Email đăng nhập:  kait.master.devaaaa@gmail.com
-  Mật Khẩu: admin
-  Quyền: admin
-  Tài khoản user:
-  Email đăng nhập:  ad@gmail.com
-  Mật Khẩu: 123
-  Quyền: user       
+- Tài khoản admin:
+. Email đăng nhập:  kait.master.devaaaa@gmail.com
+. Mật Khẩu: admin
+. Quyền: admin
+- Tài khoản user:
+. Email đăng nhập:  ad@gmail.com
+. Mật Khẩu: 123
+. Quyền: user       
